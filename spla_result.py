@@ -15,7 +15,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 client = discord.Client()
 
-SPREADSHEET_KEY = '1MgryGoC-cnsdatYlMHR-EUH5Y2MaJLIOLSuS6ESbh64'
+SPREADSHEET_KEY = ''
 
     
 scope = ['https://spreadsheets.google.com/feeds','https://www.googleapis.com/auth/drive']
