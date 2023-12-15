@@ -2,7 +2,7 @@ import discord
 import datetime as dt
 
 
-TOKEN = 'ODQ2NzAxOTc1MDU0NzEyODgz.YKzWqQ.Xc8TH2c4YLpX0NRbd4HM0Uisfa4'
+TOKEN = ''
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
